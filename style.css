@@ -1,0 +1,28 @@
+div[class=Business]{
+    background-color: #2F303A;
+    color: white;
+    text-align: center;
+      font-family: "Roboto", sans-serif;
+      }
+      button{
+        background-color: #2196F3;
+        color: white;
+      }
+     footer{
+        background-color: #2F303A;
+        color: #ffffff;
+        font-family: "Roboto", sans-serif;
+     }
+     header[class=WebStudio]{
+        font-family: "Roboto", sans-serif;
+     }
+     div[class=text]{
+        font-family: "Roboto", sans-serif;
+     }
+     section[id=images]{
+        font-family: "Roboto", sans-serif;
+     }
+     div[class=team]{
+        font-family: "Roboto", sans-serif;
+     }
+     
